@@ -7,7 +7,7 @@ saltstack-openstack
 ========
 
 **1.OpenStack架构**
-![架构图](https://github.com/unixhot/saltstack-openstack/blob/master/openstack.jpg)  
+![架构图](https://github.com/unixhot/saltstack-openstack/blob/master/openstack.png)  
 
 **2.介绍**
 
