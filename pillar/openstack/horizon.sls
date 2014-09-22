@@ -1,2 +1,2 @@
 horizon:
-  CONTROL_IP: 10.1.1.11
+  CONTROL_IP: '"192.168.56.101"'
